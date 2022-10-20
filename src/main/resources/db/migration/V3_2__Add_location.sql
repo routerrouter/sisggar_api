@@ -1,0 +1,1 @@
+Insert Into TB_LOCATION(description,location_status,storage_id,creation_date,last_update_date) values('Bloco 2','ACTIVE','ea061bfe-f751-4328-9906-b2763514a262',current_date,current_date)

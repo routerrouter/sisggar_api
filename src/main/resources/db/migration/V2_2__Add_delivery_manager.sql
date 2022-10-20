@@ -1,0 +1,2 @@
+Insert into TB_DELIVERYMANAGER (full_name,status,phone_number,image_url,storage_id,"creation_date","last_update_date")
+values('Entregador Teste','ACTIVE','9999999999','','9d1aa910-d616-4f2c-bea5-a02f954737e6',current_date,current_date);
